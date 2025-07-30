@@ -1,4 +1,14 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zhengyu Sun</h1>
+- 🔭 I’m currently working on **Data Visualization**
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **sunzy53@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **szyssssss/szyssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
